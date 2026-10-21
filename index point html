@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hermes YouTube Bot — Analyse de chaîne</title>
+  <style>
+    body { max-width: 760px; margin: 3rem auto; padding: 0 1rem;
+           font-family: system-ui, sans-serif; line-height: 1.7; color: #222; }
+    a { color: #0759b0; }
+  </style>
+</head>
+<body>
+  <h1>Hermes YouTube Bot</h1>
+  <p>Un outil personnel d’analyse pour la chaîne Le Pokédex d’Alexis.</p>
+
+  <h2>Fonctionnement</h2>
+  <p>Après autorisation du propriétaire, le bot utilise les API officielles
+  de YouTube pour consulter les informations de la chaîne et ses statistiques.
+  Il prépare des rapports quotidiens et hebdomadaires par e-mail pour aider
+  à comprendre les performances des vidéos.</p>
+  <p>Le bot consulte les données en lecture seule. Il ne publie pas de vidéos
+  et ne modifie pas leur contenu. Les statistiques détaillées peuvent être
+  retardées par leur traitement chez YouTube.</p>
+  <p>Cet outil est destiné à l’usage personnel du propriétaire de la chaîne.</p>
+
+  <h2>Contact et confidentialité</h2>
+  <p>Contact :
+    <a href="mailto:alexisnussbaumvd@gmail.com">alexisnussbaumvd@gmail.com</a>.
+  </p>
+  <p><a href="privacy.html">Politique de confidentialité</a></p>
+  <p><a href="https://www.youtube.com/t/terms">Conditions d’utilisation de YouTube</a></p>
+</body>
+</html>
